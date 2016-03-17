@@ -1,0 +1,69 @@
+html, body{
+	margin-left: 80px;
+	margin-right: 80px;
+	background-color: lightblue;
+}
+.name{
+	margin-bottom: 0px;
+	font-size: 48px;
+	text-align: center;
+	border-bottom: 2px solid black; 
+	padding-bottom: 0rem;
+}
+#me{
+	text-align:center;
+}
+.contact{
+	margin-top: 1px;
+	text-align: center;
+	font-size: 24px;
+	padding-right: 40px;
+	border-bottom: 2px solid black;
+
+}
+li{
+	margin-top: 1px;
+	display: inline;
+}
+#contact{
+	margin-top: 1px;
+	display: inline;
+	text-align:left;
+	padding:20px;
+}
+#vert {
+	display: block;
+	text-align: left;
+	text-indent: 80px;
+}
+.about{
+	font-size: 24px;
+	font-family: times;
+}
+.title{
+	text-align: left;
+}
+ .employer{
+	text-align: left;
+}
+#jobtitle{
+	float: left;
+}
+#date{
+	float: right;
+}
+.employment {
+	margin-left: 120px;
+	margin-right: 120px;
+}
+h2 {
+	border-bottom: 2px solid black;
+}
+h3{
+	border-bottom: 1px solid black;
+}
+img{
+	height: 120px;
+	width:180px;
+	float: right;
+}
