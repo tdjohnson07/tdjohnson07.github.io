@@ -1,69 +1,45 @@
-html, body{
+body{
 	margin-left: 80px;
 	margin-right: 80px;
 	background-color: lightblue;
 }
-.name{
-	margin-bottom: 0px;
-	font-size: 48px;
-	text-align: center;
-	border-bottom: 2px solid black; 
-	padding-bottom: 0rem;
+header h1{
+		font-size: 48px;
+		text-align: center;
+		border-bottom: 2px solid black;
+		
 }
-#me{
-	text-align:center;
+header ul{
+		text-align: center;
+		border-bottom: 1px solid black;
 }
-.contact{
-	margin-top: 1px;
-	text-align: center;
-	font-size: 24px;
-	padding-right: 40px;
-	border-bottom: 2px solid black;
-
+header li{
+		display: inline;
+		padding: 0 20px 0 20px;
+		
 }
-li{
-	margin-top: 1px;
-	display: inline;
+header p{
+		text-align:center;
+		font-size: 24px;
 }
-#contact{
-	margin-top: 1px;
-	display: inline;
-	text-align:left;
-	padding:20px;
+main{
+	margin: 0 100px 0 100px;
 }
-#vert {
-	display: block;
-	text-align: left;
-	text-indent: 80px;
+main h1{
+		border-bottom: 2px solid black;
 }
-.about{
-	font-size: 24px;
-	font-family: times;
+main h2{
+		border-bottom: 1px solid black;
 }
-.title{
-	text-align: left;
-}
- .employer{
-	text-align: left;
-}
-#jobtitle{
-	float: left;
-}
-#date{
-	float: right;
-}
-.employment {
-	margin-left: 120px;
-	margin-right: 120px;
-}
-h2 {
-	border-bottom: 2px solid black;
-}
-h3{
-	border-bottom: 1px solid black;
+main h3{
+		display: inline;
+		padding: 0 100px 0 0;
+		border-bottom: 1px dashed black;
 }
 img{
 	height: 120px;
 	width:180px;
 	float: right;
 }
+	
+
