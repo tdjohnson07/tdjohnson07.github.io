@@ -25,13 +25,13 @@ header p{
 main{
 	margin: 0 100px 0 100px;
 }
-.main h1{
+main h1{
 		border-bottom: 2px solid black;
 }
-.main h2{
+main h2{
 		border-bottom: 1px solid black;
 }
-.main h3{
+main h3{
 		display: inline;
 		padding: 0 100px 0 0;
 		border-bottom: 1px dashed black;
